@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "odinary box file",
+        "price": 249.99,
+        "image": {
+          "fields": { "file": { "url": "./images/odinary-box-file.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "leitz file",
+        "price": 75.99,
+        "image": { "fields": { "file": { "url": "./images/leitz-file.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "a4 counter book 4 quire",
+        "price": 199.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/a4-counter-book-4-quire.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "highliter pen",
+        "price": 22.99,
+        "image": {
+          "fields": { "file": { "url": "./images/highliter-pen.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "sticky-notes",
+        "price": 64.99,
+        "image": {
+          "fields": { "file": { "url": "./images/sticky-notes.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "fluorescent tube",
+        "price": 209.99,
+        "image": {
+          "fields": { "file": { "url": "./images/fluorescent-tube.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "starter",
+        "price": 55.99,
+        "image": { "fields": { "file": { "url": "./images/starter.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "taps",
+        "price": 949.99,
+        "image": { "fields": { "file": { "url": "./images/taps.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "cement",
+        "price": 750.99,
+        "image": { "fields": { "file": { "url": "./images/cement.jpg" } } }
+      }
+    }
+  ]
+}
